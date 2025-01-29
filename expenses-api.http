@@ -1,0 +1,6 @@
+@expenses_api_HostAddress = http://localhost:5119/api
+
+GET {{expenses_api_HostAddress}}/Transactions/
+Accept: application/json
+
+###
